@@ -49,3 +49,9 @@ For visualization of the features extracted from DeepFusion, please follow the s
 + **rbpnames**: List of RBPs used for visualisation.
 + **data_dir**: The path of the dataset used for visualisation.
 
+## Degradation
+The analysis codes, transcript files, decay rate files and result files used in the RBP degradation experiment are placed in the **_/Degradation/method_** folder, **_/Degradation/transcript_** folder, **_/Degradation/decay_rate_** folder and **_/Degradation/results_** folder, respectively.
+Before using the analysis codes, please make sure that the files with the suffixes **result1** and **result2** exist in the **_/Degradation/transcript_** folder and the **_/Degradation/decay_rate_** folder. In all codes and files, result1 and result2 represent the data corresponding to the groups "Slow degradation" and "Rapid degradation", respectively.
+
+
+
