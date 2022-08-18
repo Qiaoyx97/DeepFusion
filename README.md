@@ -14,7 +14,7 @@ pip3 install tqdm
 ```
 ***
 # usage
-Documentation for DeepFusion on **RBP-24** and **RBP-120** is available in the **_/RBP-24_** and **_/RBP-120_** folders, respectively. Files related to RNA degradation experiments are in the **_/Degrade_** folder.
+Documentation for DeepFusion on **RBP-24** and **RBP-120** is available in the **_/RBP-24_** and **_/RBP-120_** folders, respectively. Files related to RNA degradation experiments are in the **_/Degradation_** folder.
 ## RBP-24
 Please refer to the Graphport website for the original **RBP-24** dataset. The training, validation and test sets need to be processed into the standard ['label', '75 nucleotides', '375 nucleotides'] format before use, as shown in **_/RBP-24/sample_**. The results of DeepFusion training on the **RBP-24** dataset can be found at **_/RBP-24/results_** and the saved models at **_/RBP-24/models_**. To reproduce the DeepFusion results on the **RBP-24** dataset please use the file ```/RBP-24/trainer.py``` and modify the followings:
 
