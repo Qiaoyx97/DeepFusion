@@ -44,7 +44,7 @@ If you want to run the DeepFusion model on your own dataset, please process the 
 + **name_list**: The path to all processed RBP-120 sequence-only data.
 ***
 ## LICENSE
-This project is free to use for non-commercial purposes - see the LICENSE file for details.
+This project is free to use for non-commercial purposes - see the [LICENSE](https://github.com/Qiaoyx97/DeepFusion/blob/main/LICENSE) file for details.
 ***
 ## Contact
 For any questions, please contact biozy@ict.ac.cn.
