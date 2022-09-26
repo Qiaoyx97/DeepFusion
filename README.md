@@ -43,7 +43,7 @@ If you want to run the DeepFusion model on your own dataset, please process the 
 + **result_path**: The path where the training results are saved.
 + **name_list**: The path to all processed RBP-120 sequence-only data.
 ***
-## LICENSE
+## License
 This project is free to use for non-commercial purposes - see the [LICENSE](https://github.com/Qiaoyx97/DeepFusion/blob/main/LICENSE) file for details.
 ***
 ## Contact
